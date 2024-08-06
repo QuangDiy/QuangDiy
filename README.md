@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'ts Quang Duy</h1>
 <h3 align="center">Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=QuangDiy&label=Profile%20views&color=0e75b6&style=flat" alt="QuangDiy" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -22,15 +21,5 @@
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="apachespark" width="40" height="40"/> </a> 
 
 </p> 
-
-
-<p align="center">
-  <a href="https://github.com/QuangDiy">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QuangDiy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/QuangDiy">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QuangDiy&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
 
